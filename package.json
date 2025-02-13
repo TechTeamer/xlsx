@@ -139,7 +139,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://git.sheetjs.com/SheetJS/sheetjs"
+		"url": "https://github.com/TechTeamer/xlsx"
 	},
 	"scripts": {
 		"test": "make travis",
